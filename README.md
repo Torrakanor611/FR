@@ -8,3 +8,5 @@ Implementação de OSPFv2 e v3 para encaminhamento.
 Criação de uma aplicação client-server com sockets TCP. Permite que múltiplos clients reportem os valores de CPU, RAM usage para um servidor.
 
 ![https://i.imgur.com/pq0bhUA.png](https://i.imgur.com/pq0bhUA.png)
+
+Desenvolvido com: [Ana Filipe](https://github.com/AnaaFilipe)
